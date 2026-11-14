@@ -11,4 +11,5 @@ private repository: do not change anything here, it is replaced at the next copy
 - **03 Computer vision**: [hook](https://colab.research.google.com/github/aicademy-si/notebooks/blob/dev/03-computer-vision/hook.ipynb)
 - **05 Reinforcement learning**
   - **05·03 Q-learning**: [hook](https://colab.research.google.com/github/aicademy-si/notebooks/blob/dev/05-reinforcement-learning/submodules/03-q-learning/hook.ipynb)
+  - **05·04 Foundations and the reinforcement-learning setting**: [01-robot-in-a-maze-sl](https://colab.research.google.com/github/aicademy-si/notebooks/blob/dev/05-reinforcement-learning/submodules/04-foundations/problems/01-robot-in-a-maze-sl.ipynb)
   - **05·10 Model-based methods**: [hook](https://colab.research.google.com/github/aicademy-si/notebooks/blob/dev/05-reinforcement-learning/submodules/10-model-based-methods/hook.ipynb)
