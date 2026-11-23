@@ -9,3 +9,4 @@ private repository: do not change anything here, it is replaced at the next copy
 
 - **02 Core machine learning**: [hook-en](https://colab.research.google.com/github/aicademy-si/notebooks/blob/main/02-core-ml/hook-en.ipynb) · [hook-sl](https://colab.research.google.com/github/aicademy-si/notebooks/blob/main/02-core-ml/hook-sl.ipynb)
 - **03 Computer vision**: [hook](https://colab.research.google.com/github/aicademy-si/notebooks/blob/main/03-computer-vision/hook.ipynb)
+- **05 Reinforcement learning**: [hook-sl](https://colab.research.google.com/github/aicademy-si/notebooks/blob/main/05-reinforcement-learning/hook-sl.ipynb)
